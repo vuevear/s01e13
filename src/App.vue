@@ -113,6 +113,7 @@ export default {
 <style>
 
 section {
+  font-family: sans-serif;
   border-bottom: 2px solid #3d3d3d;
   padding-bottom: 10px;
 }
